@@ -1,7 +1,7 @@
    # ⚡ MistolSoft | Elite Software Engineering
 
    <p align="center">
-     <img src="https://raw.githubusercontent.com/MistolSoft/LandingPage/main/assets/Logo.png" width="150" alt="MistolSoft Logo">
+     <img src="assets/Logo.png" width="150" alt="MistolSoft Logo">
    </p>
 
    ## 🚀 Evolucionamos negocios a través de la ingeniería de precisión
